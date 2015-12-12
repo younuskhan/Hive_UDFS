@@ -1,0 +1,1 @@
+UDAF to for set collection based on filters. The filters can be simple or it could be Array of values. The Collection will return duplicates as well
